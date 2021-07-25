@@ -12,4 +12,4 @@ The goal is to learn programming. Тo programming experience. I have the qualiti
 * Specialty: Engineer;
 * Year of ending: 2021.
 5. **Foreign languages:**
-* Basic English.
+* Basic English. 
