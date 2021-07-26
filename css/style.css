@@ -21,6 +21,10 @@ header.header {
 }
 main{
   background-color: #b5a7cc; 
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+  justify-content: center;
 }
 div.content_rappresent{
   display: flex;
