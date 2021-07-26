@@ -40,6 +40,9 @@ section.additional_description {
   align-items:center;
   justify-content: center
 }
+section.english {
+text-align: center;}
+
 footer {
   display: flex;
   flex-direction: column;
