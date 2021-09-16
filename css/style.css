@@ -21,6 +21,10 @@ header.header {
 }
 main{
   background-color: #b5a7cc; 
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+  justify-content: center;
 }
 div.content_rappresent{
   display: flex;
@@ -38,8 +42,15 @@ section.additional_description {
   display: flex;
   flex-direction: column;
   align-items:center;
-  justify-content: center
+  justify-content: center;
 }
+section.english {
+display: flex;
+  flex-direction: column;
+  align-items:center;
+  justify-content: center;
+ background-color: #c7b8e0;}
+
 footer {
   display: flex;
   flex-direction: column;
